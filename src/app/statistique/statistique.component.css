@@ -1,0 +1,11 @@
+div {
+  border: solid 2px;
+  width: 150px;
+  margin: 2rem;
+  background: linear-gradient(
+    to bottom right,
+    rgba(21, 9, 78, 0.952),
+    rgb(52, 101, 238)
+  );
+  color: white;
+}
